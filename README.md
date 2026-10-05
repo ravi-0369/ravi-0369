@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 HEY THERE, I'M GOVANI RAVIKUMAR
 
-<!--
-**ravi-0369/ravi-0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE STUDENT | ASPIRING SOFTWARE ENGINEER
 
-Here are some ideas to get you started:
+🚀 Turning ideas into real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 WEB DEVELOPMENT
+🧠 DATA STRUCTURES & ALGORITHMS
+⚡ COMPETITIVE PROGRAMMING
+🗄️ DATABASE SYSTEMS
+🐧 LINUX
+☁️ CLOUD / DEVOPS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 ABOUT ME
+
+🎓 Computer Science Student
+🚀 Passionate about building projects
+🧠 Currently focusing on DSA
+🌐 Learning Web Development
+🗄️ Interested in DBMS & Backend
+🐧 Exploring Linux & DevOps
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+C | C++ | Python | SQL
+HTML | CSS | JavaScript
+Git | GitHub | Linux
+...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 FEATURED PROJECTS
+
+🚆 IRCTC Railway Reservation System
+🧠 DSA & Algorithms
+🌐 Web Development Projects
+...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 CODING PROFILES
+
+LeetCode | CodeChef | LinkedIn
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GITHUB STATS
