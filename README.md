@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravi-0369/ravi-0369/main/assets/banner.png" alt="Govani Ravikumar Banner" width="100%">
-</p>
+<img width="2172" height="724" alt="a_wide_minimalist_cinematic_dark_themed_banner" src="https://github.com/user-attachments/assets/b33a5259-f4ac-4d2f-814e-1ed8df8ff971" />
+
 <h2 align="center">
   Computer Science Student | Aspiring Software Engineer
 </h2>
