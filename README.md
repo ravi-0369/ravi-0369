@@ -1,63 +1,62 @@
 <img width="2172" height="724" alt="a_wide_minimalist_cinematic_dark_themed_banner" src="https://github.com/user-attachments/assets/b33a5259-f4ac-4d2f-814e-1ed8df8ff971" />
 
-<h2 align="center">
-  Computer Science Student | Aspiring Software Engineer
-</h2>
+
+
+<h1 align="center">GOVANI RAVIKUMAR</h1>
 
 <p align="center">
-  🚀 Building real-world projects • 🧠 Learning DSA • 💻 Exploring Software Development
+  <b>Computer Science Student • Aspiring Software Engineer • DSA Learner</b>
 </p>
 
-👋 HEY THERE, I'M GOVANI RAVIKUMAR
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-111827?style=for-the-badge&logo=academia&logoColor=white">
+  <img src="https://img.shields.io/badge/Software%20Developer-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/DSA%20Learner-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-059669?style=for-the-badge&logo=linux&logoColor=white">
+</p>
 
-CSE STUDENT | ASPIRING SOFTWARE ENGINEER
+<p align="center">
+  <i>“Turning ideas into real-world projects.” 🚀</i>
+</p>
 
-🚀 Turning ideas into real-world projects
+<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-💻 WEB DEVELOPMENT
-🧠 DATA STRUCTURES & ALGORITHMS
-⚡ COMPETITIVE PROGRAMMING
-🗄️ DATABASE SYSTEMS
-🐧 LINUX
-☁️ CLOUD / DEVOPS
+## 👨‍💻 About Me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<table>
+<tr>
+<td width="55%">
 
-👨‍💻 ABOUT ME
+🎓 **Computer Science Student**
 
-🎓 Computer Science Student
-🚀 Passionate about building projects
-🧠 Currently focusing on DSA
-🌐 Learning Web Development
-🗄️ Interested in DBMS & Backend
-🐧 Exploring Linux & DevOps
+💻 Aspiring **Software Engineer**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 Currently focused on **Data Structures & Algorithms**
 
-🛠️ TECH STACK
+🌐 Learning **Web Development**
 
-C | C++ | Python | SQL
-HTML | CSS | JavaScript
-Git | GitHub | Linux
-...
+🗄️ Interested in **DBMS & Backend Development**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🐧 Exploring **Linux, Cloud & DevOps**
 
-🚀 FEATURED PROJECTS
+🚀 Passionate about building **real-world projects**
 
-🚆 IRCTC Railway Reservation System
-🧠 DSA & Algorithms
-🌐 Web Development Projects
-...
+🤝 Open to learning, collaboration and interesting projects
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</td>
 
-🏆 CODING PROFILES
+<td width="45%">
 
-LeetCode | CodeChef | LinkedIn
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📊 GITHUB STATS
+```text
+╔════════════════════════════╗
+║       CURRENT FOCUS        ║
+╠════════════════════════════╣
+║ 🧠 DSA                    ║
+║ 💻 C++                    ║
+║ 🌐 Web Development        ║
+║ 🗄️ DBMS                   ║
+║ 🐧 Linux                  ║
+║ ☁️ Cloud / DevOps         ║
+╚════════════════════════════╝
