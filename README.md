@@ -1,6 +1,18 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%">
 </p>
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
+<h2 align="center">
+  Computer Science Student | Aspiring Software Engineer
+</h2>
+
+<p align="center">
+  🚀 Building real-world projects • 🧠 Learning DSA • 💻 Exploring Software Development
+</p>
+
 👋 HEY THERE, I'M GOVANI RAVIKUMAR
 
 CSE STUDENT | ASPIRING SOFTWARE ENGINEER
